@@ -99,7 +99,7 @@ if __name__ == "__main__":
 ```
 
 ## Contributions
-Contributions are welcome! Feel free to fork this repository, submit pull requests, or raise issues. Suggestions for additional features or improvements are highly encouraged.
+Contributions are welcome! Feel free to work on this repository, submit pull requests, or raise issues. Suggestions for additional features or improvements are highly encouraged.
 
 ## Future Enhancements
 - AI opponent for single-player mode.
